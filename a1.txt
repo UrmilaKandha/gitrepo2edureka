@@ -1,3 +1,5 @@
 learning GIs
 
 for 2nd change commit in a1.txt 
+
+3rd change for -a m without add in a1.txt
